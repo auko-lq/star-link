@@ -1,10 +1,10 @@
 ### 正常状态
 
-![1](E:\项目\网页\canvas\1.gif)
+![1](https://github.com/aukocharlie/star-link/blob/master/gif/normal.gif?raw=true)
 
 ***
 
 ### 鼠标事件
 
-![2](E:\项目\网页\canvas\2.gif)
+![2](https://github.com/aukocharlie/star-link/blob/master/gif/mousemove.gif?raw=true)
 
